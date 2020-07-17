@@ -16,7 +16,6 @@ npm install @sqrtthree/debug-output
 ```
 
 ```js
-import Vue from 'vue'
 import debugOutput from '@sqrtthree/debug-output'
 
 debugOutput.enable()
