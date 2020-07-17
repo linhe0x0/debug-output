@@ -1,0 +1,21 @@
+{
+  "name": "@sqrtthree/debug-output",
+  "version": "1.0.0",
+  "description": "Proxy console.log with `JSON.stringify` to pretty json data in Vue.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqrthree/debug-output.git"
+  },
+  "keywords": [],
+  "author": "sqrtthree <imsqrtthree@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sqrthree/debug-output/issues"
+  },
+  "homepage": "https://github.com/sqrthree/debug-output#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {}
+}
